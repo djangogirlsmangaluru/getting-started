@@ -33,3 +33,43 @@ This repository contains setup instructions for all the resources required for t
 7. <b>Python 3.7.2 (32-bit) Setup pop-up window</b> will appear with a Setup was <b>successfuly message.</b>
 
 Voila you now have python 3.7.2 installed!!
+
+
+## Install a code editor
+A code editor is a tool which will help you write code owing to it's many features. We recommend installing [VS Code](https://code.visualstudio.com/) or [Atom](https://atom.io/). 
+
+## Setting up a virtual environment
+A virtual environment lets us keep the libraries and packages that a certain project requires seperate from the local installation. In order to create a virtual environment, follow the instructions below:
+
+    C:\Users\Name> mkdir djangogirls
+    C:\Users\Name> cd djangogirls
+
+We will make a virtualenv called myvenv. The general command will be in the format:
+
+    C:\Users\Name\djangogirls> python -m venv myvenv
+
+Here, myenv is the name of your virtual environment.<br>
+We can make use of the virtual environment by entering the following command:
+
+    C:\Users\Name\djangogirls> myvenv\Scripts\activate
+
+If you are succesful, the command line should look like this:
+
+    (myenv) C:\Users\Name\djangogirls>
+## Install django
+With this step, we will install django in the virtual environment that was created. This lets us make use of django **only** when we activate this environment.
+Now, in the command prompt, enter the following command:
+    
+    (myenv) C:\Users\Name\djangogirls> pip install django
+
+To verify the installation, run the following command: **django-admin --version** in your command prompt.
+
+## Install git
+
+You can download Git from git-scm.com. You can hit "next" on all steps except for two: in the step where it asks to choose your editor, you should pick Nano, and in the step entitled "Adjusting your PATH environment", choose "Use Git and optional Unix tools from the Windows Command Prompt" (the bottom option). Other than that, the defaults are fine. Checkout Windows-style, commit Unix-style line endings is good.
+
+Do not forget to restart the command prompt or powershell after the installation finished successfully. 
+
+## Create a GitHub account
+
+Go to GitHub.com and sign up for a new, free user account. Be sure to remember your password (add it to your password manager, if you use one).
