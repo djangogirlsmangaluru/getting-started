@@ -10,9 +10,26 @@ This repository contains setup instructions for all the resources required for t
 
 # Python Installation on windows
 
-### Downloading python
+## Downloading python
 
-1. Go to (https://www.python.org/downloads/) to download the surrent version of python, that is python 3.7.2
+1. Go to (https://www.python.org/downloads/) to download the current version of python, that is python 3.7.2
+ 
+2. Click on <b>download python 3.7.2.</b>
 
-2. Click on download python 3.7.2
+3. A python 3.7.2.exe file will be downloaded.
    
+## Installing python
+
+1. Double click on the icon labeling the file <b>python 3.7.2.exe </b>. An <b> Open File - Security Warning </b> pop-up window will appear. Click on <b>run</b>.
+
+2. A Python 3.7.2 (32-bit) Setup pop-up window will appear.
+
+3. Ensure that the <b> Install launcher for all users (recommended)</b> and the<b> Add Python 3.7 to PATH checkboxes </b> at the bottom are checked. If the Python Installer finds an earlier version of Python installed on your computer, the Install Now message may instead appear as <b>Upgrade Now </b>.
+
+5. Highlight the <b>Install Now (or Upgrade Now) message</b>, and then click it. A User Account Control pop-up window will appear, posing the question Do you want the allow the following program to make changes to this computer?
+
+6. Click the <b>Yes button.</b> A new Python 3.7.2 (32-bit) Setup pop-up window will appear.
+
+7. <b>Python 3.7.2 (32-bit) Setup pop-up window</b> will appear with a Setup was <b>successfuly message.</b>
+
+Voila you now have python 3.7.2 installed!!
