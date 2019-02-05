@@ -26,7 +26,7 @@ This repository contains setup instructions for all the resources required for t
 
 3. Ensure that the <b> Install launcher for all users (recommended)</b> and the<b> Add Python 3.7 to PATH checkboxes </b> at the bottom are checked. If the Python Installer finds an earlier version of Python installed on your computer, the Install Now message may instead appear as <b>Upgrade Now </b>.
 
-5. Highlight the <b>Install Now (or Upgrade Now) message</b>, and then click it. A User Account Control pop-up window will appear, posing the question Do you want the allow the following program to make changes to this computer?
+5. Highlight the <b>Install Now (or Upgrade Now) message</b>, and then click it. A User Account Control pop-up window will appear, posing the question Do you want to allow the following program to make changes to this computer?
 
 6. Click the <b>Yes button.</b> A new Python 3.7.2 (32-bit) Setup pop-up window will appear.
 
