@@ -40,7 +40,7 @@ A code editor is a tool which will help you write code owing to it's many featur
 
 ## Setting up a virtual environment
 A virtual environment lets us keep the libraries and packages that a certain project requires seperate from the local installation. In order to create a virtual environment, follow the instructions below:
-(**Please note that ** `Name` ** here refers to the username of the person logged in to the system.**)
+(**Please note that** `Name` **here refers to the username of the person logged in to the system.**)
 
     C:\Users\Name> mkdir djangogirls
     C:\Users\Name> cd djangogirls
